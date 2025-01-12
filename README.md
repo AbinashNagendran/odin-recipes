@@ -1,1 +1,1 @@
-Complete this after I make the project and skills I have demostrated If I don't forget
+I can expand to more recipe but sadly I don't cook. In this project I learned how to use git and make use of basic html
